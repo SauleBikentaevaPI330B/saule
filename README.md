@@ -1,2 +1,2 @@
 # saule
-pau pau
+pau pau privet
